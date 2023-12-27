@@ -35,6 +35,17 @@
 #define HID_BUTTON_3                    0x03    /**<\brief Button 3 pressed */
 #define HID_BUTTON_4                    0x04    /**<\brief Button 4 pressed */
 #define HID_BUTTON_5                    0x05    /**<\brief Button 5 pressed */
+#define HID_BUTTON_6                    0x06    /**<\brief Button 6 pressed */
+#define HID_BUTTON_7                    0x07    /**<\brief Button 7 pressed */
+#define HID_BUTTON_8                    0x08    /**<\brief Button 8 pressed */
+#define HID_BUTTON_9                    0x09    /**<\brief Button 9 pressed */
+#define HID_BUTTON_10                    0x0A    /**<\brief Button 10 pressed */
+#define HID_BUTTON_11                    0x0B    /**<\brief Button 11 pressed */
+#define HID_BUTTON_12                    0x0C    /**<\brief Button 12 pressed */
+#define HID_BUTTON_13                    0x0D    /**<\brief Button 13 pressed */
+#define HID_BUTTON_14                    0x0E    /**<\brief Button 14 pressed */
+#define HID_BUTTON_15                    0x0F    /**<\brief Button 15 pressed */
+#define HID_BUTTON_16                    0x10    /**<\brief Button 16 pressed */
 
 /** @}  */
 
